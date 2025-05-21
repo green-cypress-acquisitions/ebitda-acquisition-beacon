@@ -1,4 +1,3 @@
-
 import type { Config } from "tailwindcss";
 
 export default {
@@ -72,6 +71,15 @@ export default {
 					DEFAULT: '#F5F1E6',
 					light: '#FAF8F1',
 					dark: '#E5E0D5'
+				},
+				navy: {
+					DEFAULT: '#1A4D33', // Map to green for compatibility
+					light: '#2A6344',
+					dark: '#0F3020'
+				},
+				gold: {
+					DEFAULT: '#F5F1E6', // Map to cream for compatibility
+					light: '#FAF8F1'
 				}
 			},
 			fontFamily: {
