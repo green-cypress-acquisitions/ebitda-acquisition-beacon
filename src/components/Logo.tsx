@@ -1,14 +1,17 @@
 
 import React from 'react';
+import { TreePine } from 'lucide-react';
 
 const Logo = () => {
   return (
-    <div className="flex items-center gap-2">
-      <div className="w-10 h-10 bg-navy rounded-md flex items-center justify-center">
-        <span className="text-white font-serif text-2xl font-bold">M</span>
-      </div>
-      <div className="font-serif font-semibold text-navy text-xl">
-        Meridian<span className="text-gold">Capital</span>
+    <div className="flex items-center gap-3">
+      <img 
+        src="/lovable-uploads/527d9ed4-3d92-4a93-aad5-cf077b260ac4.png" 
+        alt="Green Cypress Acquisitions Logo" 
+        className="h-12 w-auto"
+      />
+      <div className="font-serif font-semibold text-green text-xl hidden sm:block">
+        Green Cypress <span className="block">Acquisitions, LLC</span>
       </div>
     </div>
   );

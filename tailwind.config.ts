@@ -63,15 +63,15 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				navy: {
-					DEFAULT: '#0F3460',
-					light: '#1A4D8C',
-					dark: '#092340'
+				green: {
+					DEFAULT: '#1A4D33',
+					light: '#2A6344',
+					dark: '#0F3020'
 				},
-				gold: {
-					DEFAULT: '#E2C275',
-					light: '#F0D896',
-					dark: '#C7A655'
+				cream: {
+					DEFAULT: '#F5F1E6',
+					light: '#FAF8F1',
+					dark: '#E5E0D5'
 				}
 			},
 			fontFamily: {
