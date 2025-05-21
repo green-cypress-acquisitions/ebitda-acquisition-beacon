@@ -10,14 +10,14 @@ const Footer = () => {
           <Logo />
           
           <div className="flex flex-wrap gap-6 justify-center">
-            <a href="#about" className="text-gray-600 hover:text-navy">About</a>
-            <a href="#criteria" className="text-gray-600 hover:text-navy">Criteria</a>
-            <a href="#contact" className="text-gray-600 hover:text-navy">Contact</a>
+            <a href="#about" className="text-gray-600 hover:text-green">About</a>
+            <a href="#criteria" className="text-gray-600 hover:text-green">Criteria</a>
+            <a href="#contact" className="text-gray-600 hover:text-green">Contact</a>
           </div>
         </div>
         
         <div className="border-t border-gray-200 mt-8 pt-8 text-center text-gray-500 text-sm">
-          <p>© {new Date().getFullYear()} Meridian Capital Partners. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Green Cypress Acquisitions, LLC. All rights reserved.</p>
         </div>
       </div>
     </footer>

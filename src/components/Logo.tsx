@@ -1,6 +1,5 @@
 
 import React from 'react';
-import { TreePine } from 'lucide-react';
 
 const Logo = () => {
   return (
