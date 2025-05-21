@@ -6,14 +6,14 @@ const About = () => {
     <section id="about" className="py-16 px-6 lg:px-10">
       <div className="max-w-5xl mx-auto">
         <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-4xl font-serif font-bold text-navy mb-4">About Meridian Capital Partners</h2>
+          <h2 className="text-3xl md:text-4xl font-serif font-bold text-navy mb-4">About Green Cypress Acquisitions</h2>
           <div className="w-20 h-1 bg-gold mx-auto"></div>
         </div>
         
         <div className="grid md:grid-cols-2 gap-10 items-center">
           <div>
             <p className="text-gray-700 mb-4">
-              Meridian Capital Partners is a search fund founded by experienced business operators and investors with a 
+              Green Cypress Acquisitions is a search fund founded by experienced business operators and investors with a 
               passion for growing small to medium-sized businesses.
             </p>
             <p className="text-gray-700 mb-4">
