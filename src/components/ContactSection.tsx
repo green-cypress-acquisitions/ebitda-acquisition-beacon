@@ -21,7 +21,7 @@ const ContactSection = () => {
             <Button className="bg-gold hover:bg-gold-light text-navy w-full sm:w-auto flex items-center gap-2 py-6">
               <Calendar className="w-5 h-5" />
               <a 
-                href="https://calendly.com/greencypressacq/intro" 
+                href="https://calendar.app.google/zyczRJS7tKMcBMjE9" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-lg"
@@ -33,10 +33,10 @@ const ContactSection = () => {
             <p className="text-gray-600 text-center">or email us directly at</p>
             
             <a 
-              href="mailto:contact@greencypressacq.com" 
+              href="mailto:john@greencypressacquisitions.com" 
               className="text-navy-light hover:text-navy-dark underline font-medium"
             >
-              contact@greencypressacq.com
+              john@greencypressacquisitions.com
             </a>
           </div>
         </div>

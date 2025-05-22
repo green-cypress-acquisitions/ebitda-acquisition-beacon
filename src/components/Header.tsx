@@ -9,7 +9,7 @@ const Header = () => {
       <Logo />
       <div>
         <Button variant="default" className="bg-green hover:bg-green-light text-white">
-          <a href="#contact" className="text-white">Schedule Meeting</a>
+          <a href="https://calendar.app.google/zyczRJS7tKMcBMjE9" className="text-white">Schedule Meeting</a>
         </Button>
       </div>
     </header>

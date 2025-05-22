@@ -30,23 +30,23 @@ const About = () => {
             <h3 className="text-xl font-serif font-semibold mb-4 text-navy">Our Promise to Business Owners</h3>
             <ul className="space-y-3">
               <li className="flex gap-3">
-                <span className="text-gold font-bold">✓</span>
+                <span className="font-bold">✓</span>
                 <span>Preserve and build upon your company's legacy</span>
               </li>
               <li className="flex gap-3">
-                <span className="text-gold font-bold">✓</span>
+                <span className="font-bold">✓</span>
                 <span>Provide fair valuation and flexible deal structures</span>
               </li>
               <li className="flex gap-3">
-                <span className="text-gold font-bold">✓</span>
+                <span className="font-bold">✓</span>
                 <span>Ensure smooth transition for employees and customers</span>
               </li>
               <li className="flex gap-3">
-                <span className="text-gold font-bold">✓</span>
+                <span className="font-bold">✓</span>
                 <span>Execute a professional and efficient acquisition process</span>
               </li>
               <li className="flex gap-3">
-                <span className="text-gold font-bold">✓</span>
+                <span className="font-bold">✓</span>
                 <span>Focus on long-term growth rather than short-term gains</span>
               </li>
             </ul>
